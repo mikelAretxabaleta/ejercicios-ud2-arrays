@@ -1,6 +1,6 @@
 # Ejercicio 1 - Temperaturas del día
 
-Pide al usuario las temperaturas de un día (1 cada hora durante 24 horas) y almacénalas en un array. 
+Pide al usuario las temperaturas de un día (un valor cada hora durante 24 horas) y almacénalas en un array. 
 
 Usando los datos contenidos en el array, calcula la temperatura media, la máxima y la mínima. 
 
